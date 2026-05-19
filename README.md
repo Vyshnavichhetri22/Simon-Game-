@@ -25,6 +25,3 @@ A fun and interactive **Simon Says memory game** built using HTML, CSS, and Java
 
 ##  Author
 Vyshnavi Chhetri
-
-## Site is live at 
-https://vyshnavichhetri22.github.io/Simon-Game-/
